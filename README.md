@@ -1,2 +1,3 @@
-# odin-recipes
-Website of recipes for The Odin Project Foundations Course
+# Odin Recipes
+
+First project for The Odin Project Foundations Course consisting of building a basic HTML website for recipes.
