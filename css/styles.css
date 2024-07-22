@@ -1,8 +1,6 @@
 body{
     font-family: monospace;
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-bottom: 100px;
+    margin: 50px 50px 100px 50px;
 }
 
 p{
@@ -11,8 +9,8 @@ p{
 }
 
 .disclosure{
+    max-width: 90%;
     margin-top: 50px;
-    max-width: 100%;
 }
 
 .recipe-description{
@@ -28,9 +26,7 @@ h3.recipe-titles{
 }
 
 .index{
-    /* position: 50%; */
     text-align: left;
-    width: 85%;
 }
 
 h1{
